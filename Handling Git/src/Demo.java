@@ -5,6 +5,8 @@ public class Demo {
 		// TODO Auto-generated method stub
 
 	System.out.println("GIT DEMO");
+	System.out.println("changes");
+	System.out.println("new entry");
 	}
 
 }
