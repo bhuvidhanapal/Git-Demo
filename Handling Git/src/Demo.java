@@ -8,6 +8,7 @@ public class Demo {
 	System.out.println("changes");
 	System.out.println("new entry");
 	System.out.println("manual update");	
+	System.out.println("Automatic build triggering");
 	}
 
 }
