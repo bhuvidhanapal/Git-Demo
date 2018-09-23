@@ -7,6 +7,7 @@ public class Demo {
 	System.out.println("GIT DEMO");
 	System.out.println("changes");
 	System.out.println("new entry");
+	System.out.println("manual update");	
 	}
 
 }
